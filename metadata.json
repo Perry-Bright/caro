@@ -1,0 +1,6 @@
+{
+  "name": "CARO | Collective Vehicle Ownership Platform",
+  "description": "Discover collective vehicle ownership. Participate in multiple vehicles, distribute ownership interests, and build a garage that grows with you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
