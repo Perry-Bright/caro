@@ -37,53 +37,53 @@ export const MultiVehiclePortfolio: React.FC<MultiVehiclePortfolioProps> = ({ on
         </div>
 
         {/* Portfolio Summary KPI Bar */}
-        <div className="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-10">
-          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-5">
-            <span className="text-xs text-[#A6A9B0] block mb-1">Vehicles in Portfolio</span>
-            <div className="flex items-baseline gap-2">
-              <span className="text-3xl font-extrabold font-mono text-[#F5F5F2] tabular-nums">
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4 mb-10">
+          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-4 sm:p-5 min-w-0">
+            <span className="text-[11px] sm:text-xs text-[#A6A9B0] block mb-1 truncate">Vehicles in Portfolio</span>
+            <div className="flex items-baseline gap-1.5 sm:gap-2">
+              <span className="text-2xl sm:text-3xl font-extrabold font-mono text-[#F5F5F2] tabular-nums">
                 {summary.totalVehicles}
               </span>
-              <span className="text-xs text-[#38BDF8] font-mono">Curated Mix</span>
+              <span className="text-[10px] sm:text-xs text-[#38BDF8] font-mono">Curated Mix</span>
             </div>
-            <span className="text-[11px] text-[#A6A9B0] mt-1 block">Daily · GT · Sport · SUV</span>
+            <span className="text-[10px] sm:text-[11px] text-[#A6A9B0] mt-1 block truncate">Daily · GT · Sport · SUV</span>
           </div>
 
-          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-5">
-            <span className="text-xs text-[#A6A9B0] block mb-1">Contributed Capital</span>
-            <div className="flex items-baseline gap-2">
-              <span className="text-3xl font-extrabold font-mono text-[#F5F5F2] tabular-nums">
+          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-4 sm:p-5 min-w-0">
+            <span className="text-[11px] sm:text-xs text-[#A6A9B0] block mb-1 truncate">Contributed Capital</span>
+            <div className="flex items-baseline gap-1.5 sm:gap-2">
+              <span className="text-xl sm:text-3xl font-extrabold font-mono text-[#F5F5F2] tabular-nums truncate">
                 ${summary.totalContributedCapital.toLocaleString()}
               </span>
             </div>
-            <span className="text-[11px] text-[#A6A9B0] mt-1 block">vs $287,000 for solo purchase</span>
+            <span className="text-[10px] sm:text-[11px] text-[#A6A9B0] mt-1 block truncate">vs $287k for solo purchase</span>
           </div>
 
           {/* Emerald Mint strictly preserved for positive equity yield! */}
-          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-5">
-            <span className="text-xs text-[#A6A9B0] block mb-1">Estimated Equity Value</span>
-            <div className="flex items-baseline gap-2">
-              <span className="text-3xl font-extrabold font-mono text-[#10B981] tabular-nums">
+          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-4 sm:p-5 min-w-0">
+            <span className="text-[11px] sm:text-xs text-[#A6A9B0] block mb-1 truncate">Estimated Equity Value</span>
+            <div className="flex items-baseline gap-1.5 sm:gap-2">
+              <span className="text-xl sm:text-3xl font-extrabold font-mono text-[#10B981] tabular-nums truncate">
                 ${summary.totalEstimatedValue.toLocaleString()}
               </span>
             </div>
-            <span className="text-[11px] text-[#10B981] mt-1 block">Positive equity yield</span>
+            <span className="text-[10px] sm:text-[11px] text-[#10B981] mt-1 block truncate">Positive equity yield</span>
           </div>
 
-          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-5">
-            <span className="text-xs text-[#A6A9B0] block mb-1">Monthly Allocated Opex</span>
-            <div className="flex items-baseline gap-2">
-              <span className="text-3xl font-extrabold font-mono text-[#38BDF8] tabular-nums">
+          <div className="bg-[#101114] border border-[#282C34] rounded-2xl p-4 sm:p-5 min-w-0">
+            <span className="text-[11px] sm:text-xs text-[#A6A9B0] block mb-1 truncate">Monthly Allocated Opex</span>
+            <div className="flex items-baseline gap-1.5 sm:gap-2">
+              <span className="text-xl sm:text-3xl font-extrabold font-mono text-[#38BDF8] tabular-nums truncate">
                 ${summary.totalMonthlyObligations}
               </span>
               <span className="text-xs text-[#A6A9B0]">/mo</span>
             </div>
-            <span className="text-[11px] text-[#A6A9B0] mt-1 block">All-in insurance & maintenance</span>
+            <span className="text-[10px] sm:text-[11px] text-[#A6A9B0] mt-1 block truncate">All-in insurance & maint.</span>
           </div>
         </div>
 
         {/* 4 Multi-Vehicle Holdings Breakdown */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-6">
           {USER_GARAGE_PORTFOLIO.map((holding) => (
             <div
               key={holding.id}

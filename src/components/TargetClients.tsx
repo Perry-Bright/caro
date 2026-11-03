@@ -143,25 +143,27 @@ export const TargetClients: React.FC<TargetClientsProps> = ({
         </div>
 
         {/* 5-Persona Navigation Pills (Segmented Selector) */}
-        <div className="flex items-center gap-2 overflow-x-auto pb-4 mb-8 no-scrollbar">
-          {clients.map((client) => {
-            const isSelected = selectedClient === client.id;
-            const Icon = client.icon;
-            return (
-              <button
-                key={client.id}
-                onClick={() => setSelectedClient(client.id)}
-                className={`flex items-center gap-2.5 px-4 py-2.5 rounded-xl text-xs font-semibold whitespace-nowrap transition-all border ${
-                  isSelected
-                    ? 'bg-[#181A1F] text-[#38BDF8] border-[#38BDF8] shadow-md shadow-sky-500/10'
-                    : 'bg-[#101114] text-[#A6A9B0] border-[#282C34] hover:text-[#F5F5F2] hover:border-[#38BDF8]/40'
-                }`}
-              >
-                <Icon className="w-4 h-4" />
-                <span>{client.title}</span>
-              </button>
-            );
-          })}
+        <div className="w-full max-w-full overflow-x-auto pb-4 mb-8 no-scrollbar -mx-4 px-4 sm:mx-0 sm:px-0">
+          <div className="inline-flex items-center gap-2 min-w-max">
+            {clients.map((client) => {
+              const isSelected = selectedClient === client.id;
+              const Icon = client.icon;
+              return (
+                <button
+                  key={client.id}
+                  onClick={() => setSelectedClient(client.id)}
+                  className={`flex items-center gap-2.5 px-4 py-2.5 rounded-xl text-xs font-semibold whitespace-nowrap transition-all border ${
+                    isSelected
+                      ? 'bg-[#181A1F] text-[#38BDF8] border-[#38BDF8] shadow-md shadow-sky-500/10'
+                      : 'bg-[#101114] text-[#A6A9B0] border-[#282C34] hover:text-[#F5F5F2] hover:border-[#38BDF8]/40'
+                  }`}
+                >
+                  <Icon className="w-4 h-4" />
+                  <span>{client.title}</span>
+                </button>
+              );
+            })}
+          </div>
         </div>
 
         {/* Detailed Client Focus Showcase Card */}

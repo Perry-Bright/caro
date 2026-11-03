@@ -70,6 +70,12 @@ export const Navigation: React.FC<NavigationProps> = ({
                 Digital Garage
               </a>
               <a
+                href="#lifestyles"
+                className="hover:text-[#FB923C] transition-colors whitespace-nowrap shrink-0"
+              >
+                Lifestyles
+              </a>
+              <a
                 href="#dealerships"
                 className="hover:text-[#38BDF8] transition-colors whitespace-nowrap shrink-0"
               >
@@ -149,6 +155,14 @@ export const Navigation: React.FC<NavigationProps> = ({
               className="py-2 border-b border-[#202329] hover:text-[#38BDF8] transition-colors"
             >
               Digital Garage
+            </a>
+            <a
+              href="#lifestyles"
+              onClick={() => setIsMobileMenuOpen(false)}
+              className="py-2 border-b border-[#202329] hover:text-[#FB923C] text-[#FB923C]/90 transition-colors flex items-center justify-between"
+            >
+              <span>Lifestyles & Pods</span>
+              <span className="text-[10px] font-mono px-2 py-0.5 rounded bg-[#F97316]/20 border border-[#F97316]/40 text-[#FB923C]">NEW</span>
             </a>
             <a
               href="#dealerships"

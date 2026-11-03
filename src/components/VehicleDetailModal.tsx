@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Calendar, ShieldCheck, MapPin, CheckCircle, ArrowRight, Info, Users, Sparkles } from 'lucide-react';
+import { X, Calendar, ShieldCheck, MapPin, CheckCircle, ArrowRight, Info, Users, Sparkles, Flame } from 'lucide-react';
 import { type VehicleOpportunity } from '../data/vehicles';
 
 interface VehicleDetailModalProps {
@@ -20,7 +20,7 @@ export const VehicleDetailModal: React.FC<VehicleDetailModalProps> = ({
   const openShares = vehicle.totalMembers - vehicle.currentMembers;
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-black/85 backdrop-blur-md animate-in fade-in duration-200">
+    <div className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 bg-black/85 backdrop-blur-md animate-in fade-in duration-200">
       <div
         className="relative w-full max-w-3xl bg-[#101114] border border-[#282C34] rounded-2xl shadow-2xl overflow-hidden max-h-[92vh] flex flex-col"
         role="dialog"
@@ -28,17 +28,23 @@ export const VehicleDetailModal: React.FC<VehicleDetailModalProps> = ({
         aria-labelledby="vehicle-detail-title"
       >
         {/* Header bar */}
-        <div className="flex items-center justify-between px-6 py-4 border-b border-[#202329] bg-[#08090B] shrink-0">
-          <div className="flex items-center gap-2">
+        <div className="flex items-center justify-between px-4 sm:px-6 py-3.5 border-b border-[#202329] bg-[#08090B] shrink-0">
+          <div className="flex items-center gap-2 flex-wrap">
             <span className="font-mono text-xs font-semibold tracking-wider text-[#38BDF8] uppercase">
               {vehicle.category} SYNDICATE
             </span>
             <span className="text-xs text-[#A6A9B0]">• {vehicle.year} {vehicle.make}</span>
+            {vehicle.isHot && (
+              <span className="inline-flex items-center gap-1 text-[10px] font-mono font-bold text-white bg-[#F97316] px-2 py-0.5 rounded shadow-sm">
+                <Flame className="w-3 h-3 text-white" />
+                <span>{vehicle.attentionBadge || 'CLOSING SOON'}</span>
+              </span>
+            )}
           </div>
           <button
             onClick={onClose}
             aria-label="Close vehicle details"
-            className="p-1.5 rounded-lg text-[#A6A9B0] hover:text-[#F5F5F2] hover:bg-[#181A1F] transition-colors"
+            className="p-1.5 rounded-lg text-[#A6A9B0] hover:text-[#F5F5F2] hover:bg-[#181A1F] transition-colors ml-2"
           >
             <X className="w-5 h-5" />
           </button>

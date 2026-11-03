@@ -10,6 +10,7 @@ import { OwnershipVsAccess } from './components/OwnershipVsAccess';
 import { ForDealerships } from './components/ForDealerships';
 import { WhyCaro } from './components/WhyCaro';
 import { TheVision } from './components/TheVision';
+import { LifestyleSyndicates } from './components/LifestyleSyndicates';
 import { FAQSection } from './components/FAQSection';
 import { EarlyAccessConversion } from './components/EarlyAccessConversion';
 import { TargetClients } from './components/TargetClients';
@@ -18,6 +19,7 @@ import { EarlyAccessModal } from './components/EarlyAccessModal';
 import { DealerApplicationModal } from './components/DealerApplicationModal';
 import { DownloadAppModal } from './components/DownloadAppModal';
 import { VehicleDetailModal } from './components/VehicleDetailModal';
+import { CursorGlow } from './components/CursorGlow';
 import { type VehicleOpportunity } from './data/vehicles';
 
 export default function App() {
@@ -26,7 +28,7 @@ export default function App() {
   const [isDealerModalOpen, setIsDealerModalOpen] = useState(false);
   const [isDownloadAppOpen, setIsDownloadAppOpen] = useState(false);
   const [selectedVehicle, setSelectedVehicle] = useState<VehicleOpportunity | null>(null);
-  const [selectedCategoryFilter, setSelectedCategoryFilter] = useState<string>('Performance');
+  const [selectedCategoryFilter, setSelectedCategoryFilter] = useState<string>('All');
 
   const openEarlyAccess = (interest?: string) => {
     setEarlyAccessInterest(interest);
@@ -42,7 +44,10 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#08090B] text-[#F5F5F2] font-sans selection:bg-[#2563EB] selection:text-white">
+    <div className="min-h-screen bg-[#08090B] text-[#F5F5F2] font-sans selection:bg-[#F97316] selection:text-white relative w-full max-w-full overflow-x-hidden">
+      {/* Dynamic Luxury Orange/Cyan Cursor Spotlight on Desktop */}
+      <CursorGlow />
+
       {/* Navigation Bar */}
       <Navigation
         onOpenEarlyAccess={() => openEarlyAccess()}
@@ -51,52 +56,57 @@ export default function App() {
       />
 
       <main>
-        {/* Section 2: Hero */}
+        {/* Section 1: Hero (Cleaned of premature category clutter) */}
         <Hero
           onOpenEarlyAccess={() => openEarlyAccess()}
           onOpenDownloadApp={openDownloadApp}
-          onSelectCategory={(category) => setSelectedCategoryFilter(category)}
         />
 
-        {/* Section 3: The Big Idea */}
+        {/* Section 2: The Big Idea */}
         <TheBigIdea onOpenEarlyAccess={() => openEarlyAccess()} />
 
-        {/* Section 4: How Caro Works */}
+        {/* Section 3: How Caro Works */}
         <HowItWorks onOpenEarlyAccess={() => openEarlyAccess()} />
 
-        {/* Section 5: Target Clients - Different people. One platform */}
+        {/* Section 4: Target Clients - Different people. One platform */}
         <TargetClients
           onOpenEarlyAccess={openEarlyAccess}
           onOpenDealerModal={openDealerModal}
         />
 
-        {/* Section 6: The Caro Ownership Marketplace */}
+        {/* Section 5: The Caro Ownership Marketplace */}
         <Marketplace
           selectedCategoryFilter={selectedCategoryFilter}
           onSelectVehicle={(vehicle) => setSelectedVehicle(vehicle)}
           onOpenEarlyAccess={(vehicleName) => openEarlyAccess(vehicleName)}
         />
 
-        {/* Section 7: The Multi-Vehicle Portfolio */}
+        {/* Section 6: The Multi-Vehicle Portfolio */}
         <MultiVehiclePortfolio onOpenEarlyAccess={() => openEarlyAccess()} />
 
-        {/* Section 8: The Digital Garage Showcase */}
+        {/* Section 7: The Digital Garage Showcase */}
         <DigitalGarageShowcase
           onOpenEarlyAccess={() => openEarlyAccess()}
           onOpenDownloadApp={openDownloadApp}
         />
 
-        {/* Section 9: Ownership Is Not the Same as Access */}
+        {/* Section 8: Ownership Is Not the Same as Access */}
         <OwnershipVsAccess />
 
-        {/* Section 10: For Dealerships */}
+        {/* Section 9: For Dealerships */}
         <ForDealerships onOpenDealerModal={openDealerModal} />
 
-        {/* Section 11: Why Caro */}
+        {/* Section 10: Why Caro */}
         <WhyCaro />
 
-        {/* Section 12: The Vision */}
+        {/* Section 11: The Vision */}
         <TheVision />
+
+        {/* Section 12: Curated Syndicates by Lifestyle (Deeply useful, relocated far down) */}
+        <LifestyleSyndicates
+          onSelectVehicle={(vehicle) => setSelectedVehicle(vehicle)}
+          onOpenEarlyAccess={(lifestyle) => openEarlyAccess(lifestyle)}
+        />
 
         {/* Section 13: FAQ */}
         <FAQSection />
