@@ -1,0 +1,1268 @@
+# MASTER WEBSITE BUILD PROMPT: CARO
+## Premium Automotive Technology, Collective Ownership & Mobility Platform
+
+You are not building an ordinary startup website.
+
+You are an elite multidisciplinary digital product studio consisting of:
+- A world-class creative director with 30+ years of experience building premium global brands.
+- A senior UX/UI designer specialising in luxury automotive, fintech and technology products.
+- A conversion-rate optimisation expert who has worked on high-growth technology platforms.
+- A senior brand strategist.
+- A principal frontend engineer.
+- A product architect with experience designing sophisticated marketplaces and financial technology products.
+- A world-class copywriter specialising in premium consumer technology brands.
+
+Imagine that the client has commissioned your agency for $500,000 to create the digital flagship of a company with the ambition to redefine how people acquire, finance, own and experience vehicles.
+
+Your task is to design and build an exceptional, production-quality landing page for **CARO**.
+
+Do not produce a generic SaaS template. Do not produce a conventional car dealership website. Do not create a basic startup landing page with a few cards, gradients and stock images.
+
+Build a sophisticated, distinctive, visually memorable digital experience that feels like a serious, well-funded global automotive technology company.
+
+The website must communicate an ambitious idea with remarkable simplicity.
+
+---
+
+# 1. COMPANY AND BRAND CONTEXT
+
+## Brand name
+
+CARO
+
+Always write the brand as CARO or Caro, depending on the visual context.
+
+The name is short, memorable, modern and approachable.
+
+Do not use the previous company name or invent alternative brand names.
+
+## What Caro does
+
+Caro is a platform that makes vehicle ownership more accessible by allowing people to discover, form and participate in collective vehicle ownership opportunities.
+
+Traditionally, purchasing a vehicle means one person must independently finance and own the entire vehicle.
+
+Caro introduces another possibility.
+
+People can come together to acquire vehicles, contribute according to their agreed ownership interests, share ownership responsibilities and coordinate vehicle access.
+
+A person can start with a small ownership interest in one vehicle and gradually build interests across multiple vehicles.
+
+For example:
+- Someone can participate in owning a practical daily driver.
+- They can also acquire an interest in a performance car.
+- They might join another group to participate in owning an SUV.
+- Over time, they can build a diverse personal vehicle portfolio.
+
+Caro is not simply a car-sharing application, a car rental company or a luxury car club.
+
+It is building an ecosystem around collective vehicle acquisition, ownership management, access coordination and a network of dealerships and partners.
+
+## The bigger vision
+
+Caro wants to transform the way people think about vehicle ownership.
+
+Instead of asking:
+
+"Which car can I afford to buy entirely?"
+
+Caro introduces a different question:
+
+"What vehicles could I own a share of, with the budget I have?"
+
+The long-term ambition is to create a platform where people can build their own digital garages containing ownership interests in multiple vehicles.
+
+Caro will connect consumers, dealerships, vehicle owners, financing providers, insurance providers and other relevant partners.
+
+The initial focus is cars. Future expansion into other high-value assets should not dominate the landing page.
+
+---
+
+# 2. PRIMARY WEBSITE OBJECTIVES
+
+The website must achieve five objectives.
+
+### Objective 1: Explain the concept immediately
+
+A visitor should understand that Caro enables collective vehicle ownership and helps people participate in vehicles they might not otherwise purchase individually.
+
+Avoid complicated financial terminology in the opening section.
+
+### Objective 2: Create desire
+
+The visitor should feel that Caro opens up new possibilities.
+
+The website should make people imagine owning interests in several vehicles instead of committing their entire vehicle budget to one.
+
+### Objective 3: Establish credibility
+
+Caro must look like a sophisticated technology company with a serious product vision.
+
+The design must communicate trust, transparency, security, organisation and professionalism.
+
+### Objective 4: Acquire potential customers
+
+Collect early-access registrations from people interested in:
+- Joining an existing vehicle ownership group.
+- Starting a new ownership group.
+- Acquiring a smaller interest in a desirable vehicle.
+- Building a multi-vehicle ownership portfolio.
+
+### Objective 5: Recruit dealership partners
+
+Dealerships should understand that Caro can provide an additional sales channel by helping them reach groups of customers who can collectively acquire vehicles.
+
+Create a separate conversion pathway for dealerships.
+
+---
+
+# 3. BRAND POSITIONING AND MESSAGING
+
+The central brand positioning:
+
+**A new way to own more of what moves you.**
+
+Primary brand message:
+
+"Own More. Experience More."
+
+Supporting message:
+
+"Your next car doesn't have to be your only car."
+
+Alternative messaging to use throughout the website:
+
+- "More possibilities. One smarter way to own."
+- "Build a garage that grows with you."
+- "Your budget. Your vehicles. Your ownership journey."
+- "Big dreams. Shared ownership. More possibilities."
+- "Why limit your garage to one?"
+- "The future of vehicle ownership starts together."
+
+Do not put every slogan everywhere. Select the strongest messaging and create a consistent brand voice.
+
+## Tone of voice
+
+Caro should sound:
+- Confident.
+- Sophisticated.
+- Modern.
+- Aspirational.
+- Clear.
+- Intelligent.
+- Trustworthy.
+- Human.
+
+Avoid:
+- Aggressive sales language.
+- Overused startup buzzwords.
+- Excessive exclamation marks.
+- Financial promises.
+- Cheap promotional language.
+- Generic phrases such as "revolutionizing the industry" without explaining how.
+
+The copy should be concise but meaningful.
+
+Use short, memorable headlines and supporting paragraphs that explain the product clearly.
+
+---
+
+# 4. VISUAL IDENTITY AND ART DIRECTION
+
+This is one of the most important parts of the assignment.
+
+The visual quality must be exceptional.
+
+## Overall creative direction
+
+Build a premium automotive technology aesthetic.
+
+Imagine a visual combination of:
+- Porsche's refined automotive presentation.
+- Apple's minimalist product communication.
+- Stripe's sophisticated technology design.
+- Rivian's modern mobility identity.
+- High-end automotive editorial photography.
+
+Do not copy any company's website directly.
+
+Use these references as inspiration for the level of quality, restraint and attention to detail.
+
+## Colour palette
+
+Develop a sophisticated colour system.
+
+Primary background:
+- Deep charcoal: #101114
+- Near-black: #08090B
+
+Secondary surfaces:
+- Graphite: #181A1F
+- Elevated dark surface: #202329
+
+Primary text:
+- Off-white: #F5F5F2
+
+Secondary text:
+- Muted grey: #A6A9B0
+
+Accent colour:
+- Refined electric lime or vivid chartreuse: #C7F36B
+
+Use the accent colour sparingly for:
+- Primary calls to action.
+- Important interactive states.
+- Small visual indicators.
+- Selected highlights.
+- Progress indicators.
+
+Do not make the entire interface neon green.
+
+The palette must feel expensive, restrained and contemporary.
+
+If you determine that a slightly different accent colour creates a more cohesive identity, you may refine it, but maintain a dark premium automotive aesthetic.
+
+## Typography
+
+Use a refined modern sans-serif typography system.
+
+Preferred font directions:
+- Inter.
+- Manrope.
+- Geist.
+- Plus Jakarta Sans.
+- A comparable premium grotesk font.
+
+Headlines should be large, confident and carefully spaced.
+
+Use strong typography hierarchy.
+
+Avoid excessively rounded playful fonts.
+
+## Photography and imagery
+
+Photography is critical.
+
+Use high-quality, cinematic automotive imagery.
+
+Preferred visual subjects:
+- Premium sedans.
+- Sports cars.
+- Modern SUVs.
+- Luxury coupes.
+- Multiple vehicles together.
+- Contemporary automotive showrooms.
+- Elegant garages.
+- Detailed vehicle interiors.
+- Beautifully composed automotive lifestyle photography.
+
+Use real, visually compelling vehicle photography wherever possible.
+
+Images should have:
+- Strong composition.
+- Controlled lighting.
+- Rich shadows.
+- Sophisticated colour grading.
+- Clean environments.
+- High resolution.
+
+Avoid:
+- Cheap stock photography.
+- Cartoon illustrations.
+- Generic office photographs.
+- Low-quality car cutouts.
+- Images with obvious watermarks.
+- Inconsistent image styles.
+
+The vehicle photography should feel like an automotive editorial campaign.
+
+Where actual Caro product screenshots are unavailable, create clearly illustrative interface mockups. Do not represent mockups as real operational customer activity.
+
+---
+
+# 5. WEBSITE STRUCTURE
+
+Build a complete responsive landing page with the following sections.
+
+## SECTION 1: NAVIGATION
+
+Create a beautiful, minimalist navigation bar.
+
+Left:
+- CARO wordmark.
+
+Centre or right:
+- How It Works
+- Explore Ownership
+- For Dealerships
+- Our Vision
+
+Right:
+- Log In
+- Get Early Access
+
+The primary CTA should use the accent colour.
+
+Navigation behaviour:
+- Sticky navigation on scroll.
+- Transparent or subtly blended background at the top.
+- A refined dark background after scrolling.
+- Smooth scrolling to relevant page sections.
+- Mobile navigation menu with elegant animation.
+
+The CARO wordmark should be typography-led.
+
+Do not create an elaborate automotive logo unless it genuinely enhances the brand.
+
+## SECTION 2: HERO
+
+This is the most important section.
+
+It must create an immediate emotional reaction.
+
+Use a cinematic, full-width hero composition with an exceptional automotive image or video background.
+
+The image should show a beautifully arranged collection of different vehicles in a premium architectural environment.
+
+The background should feel atmospheric, dark and luxurious.
+
+Use a subtle gradient overlay to preserve text legibility.
+
+### Hero copy
+
+Eyebrow:
+
+"THE FUTURE OF VEHICLE OWNERSHIP"
+
+Main headline:
+
+"Your garage.
+Your rules.
+More possibilities."
+
+Supporting paragraph:
+
+"Why put your entire vehicle budget into one car? Discover a smarter way to participate in the vehicles you love, together with others."
+
+Primary CTA:
+
+"Explore Caro"
+
+Secondary CTA:
+
+"How It Works"
+
+Below the CTA, add a small trust-oriented statement:
+
+"Collective ownership. Greater possibilities. A garage that grows with you."
+
+The hero should feel bold but not crowded.
+
+### Optional visual interaction
+
+Include a refined horizontal vehicle selector or subtle image transition showing different vehicle categories:
+- Everyday.
+- Performance.
+- Luxury.
+- Adventure.
+
+When a category is selected, the hero image or featured vehicle presentation should transition smoothly.
+
+This interaction should feel premium, not gimmicky.
+
+## SECTION 3: THE BIG IDEA
+
+Headline:
+
+"What if owning one car wasn't your only option?"
+
+Explain the traditional ownership model versus Caro's alternative.
+
+Create a visually striking two-column comparison.
+
+LEFT: Traditional ownership
+
+Headline:
+"One budget. One car."
+
+Visual:
+One individual vehicle.
+
+Supporting text:
+"Traditional vehicle ownership often requires you to commit most of your available budget to acquiring and maintaining a single vehicle."
+
+RIGHT: The Caro approach
+
+Headline:
+"One budget. More possibilities."
+
+Visual:
+A carefully composed collection of three different vehicles.
+
+Supporting text:
+"With collective ownership, you can participate in different vehicles, distribute your ownership interests and build a garage over time."
+
+Make the comparison visual, not text-heavy.
+
+Important: Do not imply that every user automatically receives unlimited access to multiple vehicles. Access depends on the ownership and usage agreements for each vehicle.
+
+## SECTION 4: HOW CARO WORKS
+
+Headline:
+
+"Ownership, reimagined."
+
+Create a beautifully designed three-step process.
+
+STEP 1: Discover
+
+"Explore vehicles and ownership opportunities that match your interests and budget."
+
+Visual:
+Vehicle marketplace interface.
+
+STEP 2: Connect
+
+"Find compatible co-owners or join an existing ownership group."
+
+Visual:
+Group formation interface showing prospective members and ownership interests.
+
+STEP 3: Own Together
+
+"Complete the acquisition through an agreed ownership structure and manage your vehicle experience through Caro."
+
+Visual:
+Digital ownership dashboard.
+
+Use refined icons and subtle connecting lines.
+
+Each step should be visually distinct but part of one coherent process.
+
+## SECTION 5: THE CARO OWNERSHIP MARKETPLACE
+
+Headline:
+
+"Find your next ownership opportunity."
+
+Supporting text:
+
+"Discover vehicles, connect with potential co-owners and explore different ways to participate in ownership."
+
+Show an interactive marketplace preview.
+
+Create at least four example vehicle cards.
+
+Example vehicles:
+
+1. BMW M4 Competition
+   - Illustrative vehicle price: $75,000.
+   - Example ownership group: 4 members.
+   - Example contribution: $18,750 per member.
+
+2. Mercedes-Benz GLE
+   - Illustrative vehicle price: $60,000.
+   - Example ownership group: 4 members.
+   - Example contribution: $15,000 per member.
+
+3. Porsche 911 Carrera
+   - Illustrative vehicle price: $120,000.
+   - Example ownership group: 6 members.
+   - Example contribution: $20,000 per member.
+
+4. Toyota RAV4
+   - Illustrative vehicle price: $32,000.
+   - Example ownership group: 4 members.
+   - Example contribution: $8,000 per member.
+
+These are conceptual examples, not actual vehicles listed for sale or verified Caro opportunities.
+
+Each card should include:
+- Beautiful vehicle image.
+- Vehicle name.
+- Indicative vehicle price.
+- Example group size.
+- Indicative contribution per member.
+- Ownership progress indicator.
+- View Opportunity button.
+
+Add category filters:
+- All Vehicles.
+- Everyday.
+- Luxury.
+- Performance.
+- SUVs.
+
+Include an option to switch between:
+- Ownership Opportunities.
+- Existing Garages.
+- Shared Access.
+
+Make the marketplace visually realistic and interactive.
+
+When a user selects a vehicle, open a detailed modal or dedicated detail view with:
+- Vehicle overview.
+- Illustrative group composition.
+- Ownership interest breakdown.
+- Example contribution.
+- Usage arrangements.
+- Estimated running costs.
+- Important ownership considerations.
+- Request More Information CTA.
+
+IMPORTANT FINANCIAL DISCLAIMER:
+
+Show that contribution amounts are illustrative. Actual ownership costs may include financing, insurance, taxes, maintenance, storage and other expenses.
+
+Do not suggest that the displayed contributions represent guaranteed financing offers.
+
+## SECTION 6: THE MULTI-VEHICLE PORTFOLIO
+
+This section should communicate Caro's most exciting long-term idea.
+
+Headline:
+
+"Your garage doesn't have to stop at one."
+
+Supporting text:
+
+"Start with one ownership interest. Add another when you're ready. Build a garage that reflects your ambitions, interests and lifestyle."
+
+Create a premium visual representation of a customer's Digital Garage.
+
+Use a dashboard-style interface with a collection of vehicles.
+
+Example portfolio:
+
+- 25% interest in a Toyota RAV4.
+- 20% interest in a BMW M4.
+- 16.7% interest in a Porsche 911.
+- 25% interest in a Mercedes-Benz GLE.
+
+Display:
+- Vehicle image.
+- Ownership interest.
+- Example contribution.
+- Vehicle category.
+- Usage entitlement summary.
+- Monthly allocated costs.
+
+Create a refined ownership portfolio summary showing:
+- Number of vehicles.
+- Total contributed capital.
+- Estimated ownership equity.
+- Monthly cost allocation.
+
+Use clearly labelled illustrative data.
+
+Do not confuse ownership percentage with usage percentage.
+
+A 25% ownership interest does not necessarily mean 25% of the available calendar days. Usage rights are determined separately by the ownership agreement.
+
+Make this dashboard visually sophisticated, as though it belongs to a premium financial technology product.
+
+## SECTION 7: THE DIGITAL GARAGE
+
+Headline:
+
+"Everything you own. One place."
+
+Supporting text:
+
+"Your ownership interests, vehicle information, contributions and shared responsibilities, organised in one intelligent platform."
+
+Create a large product showcase.
+
+Show a desktop dashboard and a mobile dashboard.
+
+The dashboard should include:
+
+1. My Garage
+   - All vehicle interests.
+   - Vehicle ownership percentages.
+   - Ownership group information.
+
+2. Financial Overview
+   - Contributions.
+   - Recurring costs.
+   - Outstanding obligations.
+   - Estimated net equity.
+
+3. Vehicle Access
+   - Booking calendar.
+   - Usage entitlements.
+   - Upcoming reservations.
+
+4. Ownership Management
+   - Agreements.
+   - Documents.
+   - Member information.
+   - Group decisions.
+
+5. Maintenance and Expenses
+   - Upcoming maintenance.
+   - Shared expenses.
+   - Payment history.
+
+6. Ownership Opportunities
+   - New vehicles.
+   - Additional interests.
+   - Transfer opportunities.
+
+Create a believable and beautifully designed interface.
+
+Use a dark dashboard theme with a sophisticated visual hierarchy.
+
+Do not overwhelm the visitor with too many numbers.
+
+## SECTION 8: OWNERSHIP IS NOT THE SAME AS ACCESS
+
+This section is important for transparency and education.
+
+Headline:
+
+"More than access. Real ownership possibilities."
+
+Explain that Caro can support different participation arrangements, which must be clearly distinguished.
+
+Create two cards.
+
+CARD A: Collective Ownership
+
+"Acquire a genuine ownership interest through an agreed legal structure. Participate in ownership responsibilities and benefit from the rights defined by the relevant agreements."
+
+CARD B: Shared Access
+
+"Access a vehicle through a structured agreement with its existing owner or an authorised provider, without necessarily acquiring legal ownership."
+
+Explain that the legal rights, responsibilities, financial arrangements and usage conditions differ between these models.
+
+Use a clear visual distinction.
+
+Do not imply that every shared-access arrangement gives someone legal ownership.
+
+## SECTION 9: FOR DEALERSHIPS
+
+This is a major commercial pillar of Caro.
+
+Create a visually distinct section that speaks directly to dealerships.
+
+Headline:
+
+"Sell to more than one buyer."
+
+Supporting text:
+
+"Your next customer might be a group of people."
+
+Explain the opportunity:
+
+"Traditional vehicle sales often depend on one buyer being able to finance an entire vehicle. Caro introduces a new sales pathway by helping multiple interested customers come together to collectively acquire a vehicle."
+
+Show a visual example.
+
+A dealership lists a $40,000 vehicle.
+
+Four prospective co-owners express interest.
+
+Each contributes an illustrative $10,000 toward the acquisition, subject to the agreed financing and ownership arrangements.
+
+The group completes the purchase.
+
+The dealership completes a vehicle sale.
+
+Caro facilitates the discovery, group formation and ownership coordination process.
+
+Do not suggest that Caro automatically provides financing or guarantees the completion of a sale.
+
+### Dealership benefits
+
+Create four attractive feature cards:
+
+1. Reach New Customers
+
+"Connect with buyers who may not independently purchase an entire vehicle."
+
+2. Unlock New Sales Opportunities
+
+"Introduce collective acquisition as an additional pathway for selected inventory."
+
+3. Manage Group Interest
+
+"See customer interest, group progress and acquisition opportunities in one place."
+
+4. Access a New Distribution Network
+
+"Become part of a growing network connecting dealerships and prospective co-owners."
+
+### Dealer portal showcase
+
+Create a visual preview of the Caro Partner Dashboard.
+
+Include:
+- Inventory management.
+- Add vehicle.
+- Collective acquisition opportunities.
+- Customer interest.
+- Group progress.
+- Lead management.
+- Sales performance.
+- Storefront management.
+
+Use a premium dashboard design.
+
+### Dealership CTA
+
+Headline:
+
+"Bring your inventory to a new market."
+
+Button:
+
+"Become a Caro Partner"
+
+Secondary link:
+
+"Explore the Partner Network"
+
+The dealership CTA must lead to a dedicated registration or inquiry form.
+
+## SECTION 10: WHY CARO
+
+Headline:
+
+"A smarter way to think about ownership."
+
+Create a clean section with four key differentiators.
+
+1. Greater Accessibility
+
+"Participate in vehicles without independently funding the entire acquisition."
+
+2. More Possibilities
+
+"Explore ownership interests across different vehicles and categories."
+
+3. Structured Ownership
+
+"Keep contributions, responsibilities, documentation and usage arrangements organised."
+
+4. A Connected Network
+
+"Discover opportunities through consumers, existing owners and participating dealerships."
+
+Avoid making unsupported claims about savings, guaranteed returns or financing approval.
+
+## SECTION 11: THE VISION
+
+Headline:
+
+"We're building more than a marketplace."
+
+Supporting text:
+
+"We believe the future of vehicle ownership will be more connected, more flexible and more accessible. Caro is building the infrastructure to make that possible."
+
+Use a visually impressive collection of vehicles in a premium environment.
+
+Show the broader ecosystem:
+
+- Consumers.
+- Dealerships.
+- Ownership groups.
+- Vehicle owners.
+- Financing partners.
+- Insurance partners.
+- Ownership management.
+
+Make this section feel ambitious without becoming vague.
+
+Do not overemphasise expansion into boats, aircraft or unrelated assets at this stage.
+
+The immediate focus is vehicles.
+
+## SECTION 12: FAQ
+
+Build an elegant accordion-based FAQ section.
+
+Include the following questions and clear answers.
+
+1. What is Caro?
+
+Caro is a platform that helps people discover and participate in collective vehicle ownership opportunities, connect with potential co-owners and manage their vehicle ownership experience.
+
+2. Do I need to buy an entire vehicle?
+
+No. Caro is designed to support ownership opportunities where multiple people participate according to agreed ownership interests.
+
+3. Do I legally own part of the vehicle?
+
+That depends on the specific ownership structure. Genuine ownership opportunities should identify the legal vehicle-owning entity, your interest and the relevant agreements. Some access arrangements do not confer legal ownership.
+
+4. Can I own interests in multiple vehicles?
+
+That is a core part of Caro's vision. Users can build a portfolio of interests across different vehicles, subject to affordability and the relevant ownership arrangements.
+
+5. How is vehicle usage organised?
+
+Usage rights are agreed separately from economic ownership percentages. Groups can establish schedules, booking rules and other arrangements.
+
+6. What costs should I expect?
+
+Potential costs include acquisition contributions, financing, insurance, taxes, maintenance, repairs, storage and other shared expenses.
+
+7. Can I sell or transfer my ownership interest?
+
+Caro's vision includes supporting transfers and exits where permitted by the relevant agreements, legal structure and applicable regulations. Availability and conditions will vary.
+
+8. Does Caro provide financing?
+
+Caro aims to work with appropriate financing partners and facilitate financing-related opportunities. Do not imply that Caro itself is a lender or that financing approval is guaranteed.
+
+9. Can dealerships join Caro?
+
+Yes. Dealerships can express interest in becoming partners and exploring Caro as an additional vehicle sales channel.
+
+10. Is Caro available in my country?
+
+Availability depends on market launch, applicable laws and operational partnerships. Invite visitors to register for updates rather than inventing launch locations.
+
+## SECTION 13: EARLY ACCESS CONVERSION
+
+Create an exceptional final conversion section.
+
+Use a dark, cinematic visual with a subtle automotive image.
+
+Headline:
+
+"Your next garage starts here."
+
+Supporting text:
+
+"Be among the first to explore a different way of owning the vehicles you love."
+
+Primary CTA:
+
+"Get Early Access"
+
+Secondary CTA:
+
+"Partner With Caro"
+
+### Early access registration
+
+When the user selects Get Early Access, open an elegant modal or navigate to a registration section.
+
+Collect:
+
+- First name.
+- Last name.
+- Email address.
+- Country.
+- City.
+- What interests you most?
+
+Interest options:
+- Joining an existing ownership group.
+- Starting an ownership group.
+- Owning interests in multiple vehicles.
+- Performance and luxury vehicles.
+- Everyday vehicles.
+- Learning more about Caro.
+
+Include:
+- Privacy consent.
+- Clear submission feedback.
+- Form validation.
+- Success state.
+
+Do not ask for sensitive financial information, credit scores, identification documents or banking credentials in an early-access form.
+
+Do not create a fake success message that implies a registration has been saved when no backend is connected.
+
+If no backend is available, create a clearly documented integration point and a working frontend validation/demo state.
+
+### Dealership registration form
+
+Create a separate form with:
+
+- Dealership name.
+- Contact person's name.
+- Business email.
+- Phone number.
+- Country.
+- City.
+- Number of locations.
+- Dealership type.
+- Approximate vehicle inventory.
+- Additional message.
+
+Button:
+
+"Apply to Become a Partner"
+
+Clearly distinguish customer registration from dealership inquiries.
+
+---
+
+# 6. PREMIUM MICRO-INTERACTIONS AND ANIMATION
+
+The experience must feel polished and intentional.
+
+Implement:
+- Smooth scrolling.
+- Subtle section entrance animations.
+- Elegant hover transitions.
+- Refined button animations.
+- Smooth image transitions.
+- Interactive vehicle cards.
+- Animated marketplace filters.
+- Dashboard tab switching.
+- Accordion transitions.
+- Modal transitions.
+- Navigation background transitions.
+
+Use animation sparingly.
+
+Avoid:
+- Excessive parallax.
+- Constant floating objects.
+- Overly complicated animated backgrounds.
+- Distracting cursor effects.
+- Unnecessary loading animations.
+
+Performance and accessibility must take priority over decorative animation.
+
+Respect reduced-motion preferences.
+
+---
+
+# 7. RESPONSIVE DESIGN
+
+The website must be fully responsive.
+
+Design and test for:
+
+- Large desktop screens.
+- Standard laptop screens.
+- Tablets.
+- Modern smartphones.
+
+Desktop:
+Use cinematic layouts, generous whitespace, large imagery and carefully balanced content widths.
+
+Tablet:
+Adapt complex layouts without making text too small.
+
+Mobile:
+Prioritise clarity, readable typography and conversion.
+
+Mobile requirements:
+- Functional hamburger navigation.
+- Full-width CTA buttons where appropriate.
+- Responsive vehicle cards.
+- Horizontal carousels where they improve browsing.
+- Properly scaled dashboard previews.
+- No horizontal overflow.
+- Forms that are easy to complete.
+- Images cropped intentionally rather than distorted.
+
+Do not simply shrink the desktop design. Design a genuinely good mobile experience.
+
+---
+
+# 8. FUNCTIONAL REQUIREMENTS
+
+Build a real working frontend, not a static screenshot.
+
+All visible interactive elements must work.
+
+Required functionality:
+
+1. Navigation links scroll to the correct sections.
+2. Early access CTA opens the correct registration flow.
+3. Dealership CTA opens the dealer registration flow.
+4. Vehicle category filters update the displayed vehicles.
+5. Marketplace tabs switch between the different opportunity types.
+6. Vehicle cards open detailed views.
+7. Dashboard tabs switch their displayed content.
+8. FAQ accordions open and close.
+9. Forms validate required fields.
+10. Form success and error states are clear.
+11. Mobile navigation works.
+12. Buttons have appropriate hover, focus and disabled states.
+
+If a backend is available, implement a proper registration submission flow.
+
+If a backend is not available:
+- Use clean mock data.
+- Clearly separate mock data from production data.
+- Build the forms so a backend can be connected later.
+- Do not invent real customer registrations.
+- Do not claim that information has been permanently saved.
+
+---
+
+# 9. TECHNICAL IMPLEMENTATION
+
+Use the best supported modern web stack in the Google AI environment.
+
+Preferred approach:
+- React.
+- TypeScript.
+- Tailwind CSS or an equally maintainable styling system.
+- Reusable components.
+- Lucide icons.
+- Modern responsive CSS.
+- Optimised image assets.
+
+Structure the application into reusable components:
+
+- Navigation.
+- Hero.
+- OwnershipComparison.
+- HowItWorks.
+- MarketplacePreview.
+- VehicleCard.
+- VehicleDetailModal.
+- PortfolioShowcase.
+- DigitalGarage.
+- OwnershipModels.
+- DealerSection.
+- DealerDashboardPreview.
+- WhyCaro.
+- VisionSection.
+- FAQ.
+- EarlyAccessForm.
+- DealerApplicationForm.
+- Footer.
+
+Keep code organised and maintainable.
+
+Use semantic HTML.
+
+Implement:
+- Accessible labels.
+- Keyboard navigation.
+- Appropriate colour contrast.
+- Image alt text.
+- SEO metadata.
+- Open Graph metadata.
+- Descriptive page title.
+- Favicon placeholder using the Caro brand.
+- Appropriate heading hierarchy.
+
+Optimise for performance:
+- Lazy-load images below the fold.
+- Use responsive image sizing.
+- Avoid unnecessarily large dependencies.
+- Minimise layout shifts.
+- Keep animation efficient.
+- Optimise mobile loading.
+
+Use secure handling of form data if backend functionality is implemented.
+
+Never place secret keys or private credentials in frontend code.
+
+---
+
+# 10. SEO AND DISCOVERABILITY
+
+Create appropriate metadata.
+
+Suggested page title:
+
+"Caro | A New Way to Own More of What Moves You"
+
+Suggested meta description:
+
+"Discover a new way to participate in vehicle ownership. Explore collective ownership opportunities, connect with co-owners and build a garage that grows with you."
+
+Use natural language throughout the website.
+
+Relevant topics:
+- Collective car ownership.
+- Fractional vehicle ownership.
+- Shared car ownership.
+- Vehicle ownership marketplace.
+- Multi-vehicle ownership.
+- Digital garage.
+- Dealership partnerships.
+
+Do not keyword-stuff.
+
+---
+
+# 11. TRUST, TRANSPARENCY AND FINANCIAL ACCURACY
+
+This is a financial and ownership-related product.
+
+Credibility is essential.
+
+Do not fabricate:
+- Number of users.
+- Number of dealerships.
+- Completed vehicle transactions.
+- Partnerships.
+- Customer testimonials.
+- Funding raised.
+- Revenue.
+- Market share.
+- Vehicle availability.
+- Financing approvals.
+- Insurance coverage.
+- Legal certifications.
+
+Do not create fake partner logos.
+
+Do not display fake ratings.
+
+Do not use fake customer reviews.
+
+If a section requires data that has not been provided, omit the claim or use clearly labelled illustrative content.
+
+Use an appropriate disclaimer near financial examples:
+
+"All vehicle prices, contributions and portfolio examples shown are illustrative and do not constitute financing offers. Actual costs and ownership rights depend on the vehicle, financing arrangements, legal structure, insurance, applicable laws and agreements between participants."
+
+Never imply:
+- Guaranteed investment returns.
+- Guaranteed appreciation.
+- Guaranteed financing approval.
+- Guaranteed vehicle availability.
+- Automatic ownership rights from a shared-access arrangement.
+
+The design should make the company feel trustworthy through clarity, not through invented credibility.
+
+---
+
+# 12. FOOTER
+
+Create a sophisticated multi-column footer.
+
+Brand area:
+
+CARO
+
+"Own More. Experience More."
+
+Short description:
+
+"A new way to discover, participate in and manage vehicle ownership."
+
+Navigation:
+- How It Works.
+- Explore Ownership.
+- Digital Garage.
+- For Dealerships.
+- Our Vision.
+
+Company:
+- About Caro.
+- Contact.
+- Careers.
+- Become a Partner.
+
+Legal:
+- Privacy Policy.
+- Terms of Service.
+- Ownership Disclaimer.
+
+Social:
+- Instagram.
+- LinkedIn.
+- X.
+
+Use placeholder links where actual destinations are not yet available. Do not invent active social accounts.
+
+Include a clean copyright line.
+
+---
+
+# 13. DESIGN QUALITY BENCHMARK
+
+Before completing the website, evaluate it against these standards.
+
+### Visual quality
+- Does it look like a premium global automotive technology company?
+- Is the photography exceptional?
+- Is the typography sophisticated?
+- Is the spacing intentional?
+- Does every section feel designed rather than assembled from a template?
+- Is the visual identity consistent?
+
+### Communication
+- Can a new visitor understand Caro in five seconds?
+- Is the difference between ownership and shared access clear?
+- Is the multi-vehicle portfolio concept easy to understand?
+- Does the dealership value proposition make commercial sense?
+
+### Conversion
+- Are the main CTAs visible?
+- Is early access registration easy?
+- Is the dealership pathway distinct?
+- Are the forms intuitive?
+- Does every major section guide the visitor toward a meaningful next step?
+
+### Functionality
+- Do all interactive elements work?
+- Does the page work on mobile?
+- Are there any broken links?
+- Are there any console errors?
+- Are there any overflowing elements?
+- Are all images loading correctly?
+
+### Credibility
+- Are all examples clearly labelled?
+- Are all financial claims responsible?
+- Is there any fabricated traction?
+- Is the distinction between legal ownership and access accurate?
+
+---
+
+# 14. FINAL CREATIVE DIRECTION
+
+This is not a website for a small car-sharing application.
+
+It is the digital introduction to a company with the ambition to build a new ownership ecosystem.
+
+A visitor should leave the website thinking:
+
+"I have never considered owning a car this way."
+
+A potential customer should think:
+
+"I want to explore this."
+
+A dealership owner should think:
+
+"This could help me reach a new category of buyers."
+
+An investor should think:
+
+"This company is building infrastructure around an interesting shift in how people acquire and own expensive assets."
+
+The design should be ambitious, but the messaging must remain honest.
+
+The website must balance three qualities:
+
+**DESIRE:** Make people want to be part of the Caro experience.
+
+**CLARITY:** Make the business model understandable without lengthy explanations.
+
+**TRUST:** Make people comfortable exploring an unfamiliar ownership model.
+
+Do not stop at producing a visual concept or a design description.
+
+Actually build the complete landing page in the available environment.
+
+Use your own design judgement to make creative decisions. Do not ask for approval after every section.
+
+Prioritise quality over speed.
+
+When finished, review the complete website as if you were the creative director responsible for a $500,000 agency engagement. Fix weak sections, inconsistent spacing, generic components, poor typography, broken interactions and anything that makes the experience feel cheap.
+
+The final result should feel like the digital flagship of **CARO: a premium, ambitious and trustworthy automotive technology brand.**
+
+**CARO**
+**Own More. Experience More.**
