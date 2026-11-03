@@ -1,6 +1,7 @@
 import React from 'react';
 import { ArrowRight, Building2, Smartphone, ShieldCheck, Download, ExternalLink } from 'lucide-react';
 import { APP_DEMO_DOWNLOAD_URL } from '../data/links';
+import { IMAGES } from '../data/images';
 
 interface EarlyAccessConversionProps {
   onOpenEarlyAccess: () => void;
@@ -18,7 +19,7 @@ export const EarlyAccessConversion: React.FC<EarlyAccessConversionProps> = ({
       {/* Background Subtle Automotive Ambience */}
       <div className="absolute inset-0 opacity-20 pointer-events-none">
         <img
-          src="/src/assets/images/hero_caro_garage_1793608577926.jpg"
+          src={IMAGES.heroGarage}
           alt=""
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center filter blur-md"

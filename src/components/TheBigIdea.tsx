@@ -1,5 +1,6 @@
 import React from 'react';
 import { ArrowRight, CheckCircle2, Lock, Sparkles, Layers } from 'lucide-react';
+import { IMAGES } from '../data/images';
 
 interface TheBigIdeaProps {
   onOpenEarlyAccess: () => void;
@@ -40,7 +41,7 @@ export const TheBigIdea: React.FC<TheBigIdeaProps> = ({ onOpenEarlyAccess }) => 
               {/* Visual Presentation */}
               <div className="mt-6 rounded-xl overflow-hidden border border-[#202329] relative">
                 <img
-                  src="/src/assets/images/car_toyota_rav4_1793608579566.jpg"
+                  src={IMAGES.toyotaRav4}
                   alt="Single vehicle commitment"
                   referrerPolicy="no-referrer"
                   className="w-full h-52 sm:h-60 object-cover object-center grayscale contrast-110 opacity-70"
@@ -94,7 +95,7 @@ export const TheBigIdea: React.FC<TheBigIdeaProps> = ({ onOpenEarlyAccess }) => 
               <div className="mt-6 grid grid-cols-3 gap-2 rounded-xl overflow-hidden p-2 bg-[#08090B] border border-[#202329]">
                 <div className="relative rounded-lg overflow-hidden h-28 sm:h-36">
                   <img
-                    src="/src/assets/images/car_toyota_rav4_1793608579566.jpg"
+                    src={IMAGES.toyotaRav4}
                     alt="Daily EV/Hybrid"
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover"
@@ -104,7 +105,7 @@ export const TheBigIdea: React.FC<TheBigIdeaProps> = ({ onOpenEarlyAccess }) => 
                 </div>
                 <div className="relative rounded-lg overflow-hidden h-28 sm:h-36 border border-[#38BDF8]/60">
                   <img
-                    src="/src/assets/images/car_porsche_911_1793608578038.jpg"
+                    src={IMAGES.porsche911}
                     alt="Sports Coupe"
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover"
@@ -114,7 +115,7 @@ export const TheBigIdea: React.FC<TheBigIdeaProps> = ({ onOpenEarlyAccess }) => 
                 </div>
                 <div className="relative rounded-lg overflow-hidden h-28 sm:h-36">
                   <img
-                    src="/src/assets/images/car_mercedes_gle_1793608579777.jpg"
+                    src={IMAGES.mercedesGle}
                     alt="Luxury SUV"
                     referrerPolicy="no-referrer"
                     className="w-full h-full object-cover"

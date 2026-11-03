@@ -1,3 +1,5 @@
+import { IMAGES } from './images';
+
 export interface GarageHolding {
   id: string;
   name: string;
@@ -20,7 +22,7 @@ export const USER_GARAGE_PORTFOLIO: GarageHolding[] = [
     id: 'hold-1',
     name: 'Toyota RAV4 Hybrid XSE',
     category: 'Everyday',
-    image: '/src/assets/images/car_toyota_rav4_1793608579566.jpg',
+    image: IMAGES.toyotaRav4,
     sharePercentage: 25.0,
     contributedCapital: 8000,
     currentValue: 8000,
@@ -36,7 +38,7 @@ export const USER_GARAGE_PORTFOLIO: GarageHolding[] = [
     id: 'hold-2',
     name: 'BMW M4 Competition',
     category: 'Performance',
-    image: '/src/assets/images/car_bmw_m4_1793608579550.jpg',
+    image: IMAGES.bmwM4,
     sharePercentage: 20.0,
     contributedCapital: 15000,
     currentValue: 15200,
@@ -52,7 +54,7 @@ export const USER_GARAGE_PORTFOLIO: GarageHolding[] = [
     id: 'hold-3',
     name: 'Porsche 911 Carrera',
     category: 'Performance',
-    image: '/src/assets/images/car_porsche_911_1793608578038.jpg',
+    image: IMAGES.porsche911,
     sharePercentage: 16.7,
     contributedCapital: 20000,
     currentValue: 20500,
@@ -68,7 +70,7 @@ export const USER_GARAGE_PORTFOLIO: GarageHolding[] = [
     id: 'hold-4',
     name: 'Mercedes-Benz GLE 450',
     category: 'SUVs',
-    image: '/src/assets/images/car_mercedes_gle_1793608579777.jpg',
+    image: IMAGES.mercedesGle,
     sharePercentage: 25.0,
     contributedCapital: 15000,
     currentValue: 15250,

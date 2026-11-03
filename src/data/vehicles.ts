@@ -1,3 +1,5 @@
+import { IMAGES } from './images';
+
 export interface VehicleOpportunity {
   id: string;
   name: string;
@@ -40,7 +42,7 @@ export const VEHICLES_DATA: VehicleOpportunity[] = [
     year: 2024,
     category: 'Performance',
     type: 'Opportunities',
-    image: '/src/assets/images/car_porsche_911_1793608578038.jpg',
+    image: IMAGES.porsche911,
     price: 120000,
     totalMembers: 6,
     currentMembers: 4,
@@ -72,7 +74,7 @@ export const VEHICLES_DATA: VehicleOpportunity[] = [
     year: 2024,
     category: 'Performance',
     type: 'Opportunities',
-    image: '/src/assets/images/car_bmw_m4_1793608579550.jpg',
+    image: IMAGES.bmwM4,
     price: 75000,
     totalMembers: 4,
     currentMembers: 3,
@@ -103,7 +105,7 @@ export const VEHICLES_DATA: VehicleOpportunity[] = [
     year: 2024,
     category: 'SUVs',
     type: 'Opportunities',
-    image: '/src/assets/images/car_mercedes_gle_1793608579777.jpg',
+    image: IMAGES.mercedesGle,
     price: 60000,
     totalMembers: 4,
     currentMembers: 2,
@@ -133,7 +135,7 @@ export const VEHICLES_DATA: VehicleOpportunity[] = [
     year: 2024,
     category: 'Everyday',
     type: 'Garages',
-    image: '/src/assets/images/car_toyota_rav4_1793608579566.jpg',
+    image: IMAGES.toyotaRav4,
     price: 32000,
     totalMembers: 4,
     currentMembers: 4,
@@ -165,7 +167,7 @@ export const VEHICLES_DATA: VehicleOpportunity[] = [
     year: 2025,
     category: 'Luxury',
     type: 'Opportunities',
-    image: '/src/assets/images/car_bmw_m4_1793608579550.jpg',
+    image: IMAGES.bmwM4,
     price: 125000,
     totalMembers: 5,
     currentMembers: 3,
@@ -196,7 +198,7 @@ export const VEHICLES_DATA: VehicleOpportunity[] = [
     year: 2024,
     category: 'SUVs',
     type: 'Shared',
-    image: '/src/assets/images/car_mercedes_gle_1793608579777.jpg',
+    image: IMAGES.mercedesGle,
     price: 72000,
     totalMembers: 4,
     currentMembers: 3,

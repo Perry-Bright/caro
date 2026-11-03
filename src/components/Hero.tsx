@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { ArrowRight, Smartphone, Shield, Sparkles } from 'lucide-react';
+import { IMAGES } from '../data/images';
 
 interface HeroProps {
   onOpenEarlyAccess: () => void;
@@ -31,7 +32,7 @@ export const Hero: React.FC<HeroProps> = ({
       {/* Background Cinematic Image with measured gradient scrim */}
       <div className="absolute inset-0 z-0">
         <img
-          src="/src/assets/images/hero_caro_garage_1793608577926.jpg"
+          src={IMAGES.heroGarage}
           alt="Curated Caro collective vehicle garage"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-center scale-[1.02] transform transition-transform duration-1000 ease-out"
